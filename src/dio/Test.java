@@ -1,14 +1,14 @@
-package one.digitalinnovation.gof;
+package dio;
 
-import one.digitalinnovation.gof.facade.Facade;
-import one.digitalinnovation.gof.singleton.SingletonEager;
-import one.digitalinnovation.gof.singleton.SingletonLazy;
-import one.digitalinnovation.gof.singleton.SingletonLazyHolder;
-import one.digitalinnovation.gof.strategy.Comportamento;
-import one.digitalinnovation.gof.strategy.ComportamentoAgressivo;
-import one.digitalinnovation.gof.strategy.ComportamentoDefensivo;
-import one.digitalinnovation.gof.strategy.ComportamentoNormal;
-import one.digitalinnovation.gof.strategy.Robo;
+import dio.facade.Facade;
+import dio.singleton.SingletonEager;
+import dio.singleton.SingletonLazy;
+import dio.singleton.SingletonLazyHolder;
+import dio.strategy.Comportamento;
+import dio.strategy.ComportamentoAgressivo;
+import dio.strategy.ComportamentoDefensivo;
+import dio.strategy.ComportamentoNormal;
+import dio.strategy.Robo;
 
 public class Test {
 

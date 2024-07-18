@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.facade;
+package dio.facade;
 
 import subsistema1.crm.CrmService;
 import subsistema2.cep.CepApi;

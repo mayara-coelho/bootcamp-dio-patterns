@@ -1,7 +1,7 @@
-package one.digitalinnovation.gof.singleton;
+package dio.singleton;
 
 /**
- * Singleton "preguiçoso".
+ * Singleton "preguiï¿½oso".
  * 
  * @author falvojr
  */
